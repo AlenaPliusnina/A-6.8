@@ -1,4 +1,4 @@
-# A-6.8
+# Progressbar
 
 ![alt text](screenshots/progressbar.png "Progressbar")
 

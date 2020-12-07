@@ -8,5 +8,5 @@
 
 Реализация:
 
-   - https://alenapliusnina.github.io/A-6.8/
+   - https://alenapliusnina.github.io/Progress-bar/
 

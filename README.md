@@ -1,5 +1,7 @@
 # A-6.8
 
+![alt text](screenshots/progressbar.png "Progressbar")
+
 ТЗ:
    
     Написать html код с прогрессбаром, тремя кнопками и пометками: “+1%”, “+3%” и “+7%”. 
@@ -8,3 +10,4 @@
 Реализация:
 
    - https://alenapliusnina.github.io/A-6.8/
+

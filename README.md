@@ -1,6 +1,6 @@
 # Progress-bar
 
-![alt text](screenshots/progressbar.png "Progressbar")
+![Иллюстрация к проекту](https://github.com/AlenaPliusnina/A-6.8/blob/master/screenshoots/progressbar.png)
 
 ТЗ:
    

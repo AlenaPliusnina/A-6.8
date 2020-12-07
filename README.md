@@ -1,4 +1,4 @@
-# Progressbar
+# Progress-bar
 
 ![alt text](screenshots/progressbar.png "Progressbar")
 
